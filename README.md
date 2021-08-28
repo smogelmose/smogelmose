@@ -1,4 +1,7 @@
 ### Hi there 👋
+I’m Steffen Møgelmose.\
+Thanks for stopping by!\
+I learn and teach and create things with code!
 
 <!--
 **smogelmose/smogelmose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
