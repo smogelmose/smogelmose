@@ -14,7 +14,7 @@ Thanks for stopping by!
 🧘🏻‍♂️ I believe in taking a deep breath to deal with overwhelm.\
 🧗🏻‍♂️ I believe in agile principles.\
 🏕 I hike and enjoy outdoor experiences in Scandinavia.\
-📝 I write fiction in Scrivener.\
+📝 I write poetry and fiction in Scrivener.\
 🎥 I'm a certified Avid Media Composer User & Instructor.
 
 <!--
