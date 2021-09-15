@@ -1,9 +1,9 @@
 ## Hi there 👋
 I’m Steffen Møgelmose.\
-Thanks for stopping by!\
+Thanks for stopping by!
 
 👨🏻‍💻 I code in VSCode, PyCharm & Sublime Text 3.\
-💀 I study figurative sculpting and anatomy in natural and digital clay.
+💀 I study figurative sculpting and anatomy in natural and digital clay.\
 🧠 I have a passion for exploring new technologies and methodologies with a focus on human beings.\ 
 👨🏻‍🏫 I teach with a people-first approach.\
 👨🏻‍🏭 I create things with Raspberry Pi.\
