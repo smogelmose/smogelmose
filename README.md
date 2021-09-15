@@ -1,6 +1,6 @@
 ## Hi there 👋
 I’m Steffen Møgelmose.\
-Thanks for stopping by!\
+Thanks for stopping by!
 - ⚡ I learn and teach and create things with code! ✨
 
 <!--
