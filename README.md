@@ -15,7 +15,7 @@ Thanks for stopping by!
 🧗🏻‍♂️ I believe in agile principles.\
 🏕 I hike and enjoy outdoor experiences in Scandinavia.\
 📝 I write poetry and fiction in Scrivener.\
-🎥 I'm a certified Avid Media Composer User & Instructor.
+🎥 I'm a certified Avid Media Composer User & Instructor.\
 🧔🏻‍ I'm open-minded and have a friendly demeanor.\
 🐳 I'm setting Sail with Docker.\
 🎮 I like to bring people together for a friendly game.
