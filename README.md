@@ -14,9 +14,9 @@ Thanks for stopping by!
 🧘🏻‍♂️ I believe in taking a deep breath.\
 🏕 I hike and enjoy outdoor experiences.\
 🎮 I like to bring people together for a friendly game.\
-🦄 I study generative art in Processing p5.js.\
+🦄 I study generative art in p5.js.\
 👨🏻‍🏭 I create things with Raspberry Pi.\
-📝 I write poetry and fiction.\
+📝 I write poetry and fiction with Scrivener.\
 💀 I study figurative sculpting and anatomy.\
 👨🏻‍🏫 I teach with a people-first approach.
 <!--
