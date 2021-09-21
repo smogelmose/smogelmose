@@ -5,8 +5,8 @@ Thanks for stopping by!
 🧠 I have a passion for exploring new technologies with a focus on human beings.\
 🎓 I'm certified in AWS with an AP Degree in Multimedia Design and Communication.\
 🎥 I'm a certified Avid Media Composer User & Instructor.\
-👨🏻‍💻 I code in VSCode, PyCharm & Sublime Text 3.\
-🐍 I build things with Python.\
+👨🏻‍💻 I code in VSCode, Intellij IDEA, PyCharm & Sublime Text 3.\
+🐍 I build things with Python and Clojure.\
 🐳 I'm setting sail with Docker.\
 🧗🏻‍♂️ I believe in agile principles.\
 🧔🏻‍ I'm open-minded and have a friendly demeanor.\
