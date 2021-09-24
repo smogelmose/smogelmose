@@ -8,6 +8,7 @@ Thanks for stopping by!
 👨🏻‍💻 I code in VSCode, Intellij IDEA, PyCharm & Sublime Text 3.\
 🐍 I build things with Python and Clojure.\
 🐳 I'm setting sail with Docker.\
+🌍 I'm building better apps with Terraform.\
 🧗🏻‍♂️ I believe in agile principles.\
 🧔🏻‍ I'm open-minded and have a friendly demeanor.\
 ☕️ I enjoy a damn good cup of coffee.\
@@ -15,7 +16,7 @@ Thanks for stopping by!
 🏕 I hike and enjoy outdoor experiences.\
 🎮 I like to bring people together for a friendly game.\
 🦄 I study generative art with Processing.\
-👨🏻‍🏭 I create things with Raspberry Pi.\
+👨🏻‍🏭 I create strange things with the Raspberry Pi.\
 📝 I write poetry and fiction with Scrivener.\
 💀 I study figurative sculpting and anatomy.\
 👨🏻‍🏫 I teach with a people-first approach.
