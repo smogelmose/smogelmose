@@ -4,20 +4,21 @@ Thanks for stopping by!
 
 
 🧠 I have a passion for exploring new technologies with a focus on human beings.\
-🎓 I'm certified in AWS with an AP Degree in Multimedia Design and Communication.\
+🎓 I have an AP Degree in Multimedia Design and Communication.\
 🎥 I'm a certified Avid Media Composer User & Instructor.\
+☁️ I'm an AWS Certified Cloud Practitioner.\
 👨🏻‍💻 I code in VSCode, Intellij IDEA, PyCharm & Sublime Text 3.\
-🐍 I build things with Python and Clojure.\
-🦄 I study creative coding and generative art with Processing.\
+🏗️ I build things with JavaScript and Python.\
+🦄 I study creative coding and generative art with p5.js & Processing.\
 👨🏻‍🏭 I create strange things with the Raspberry Pi.\
-🐳 I'm setting sail with Docker and K8.\
+🐳 I'm setting sail with Docker.\
 🌍 I'm building better apps with Terraform.\
 ☕️ I enjoy a damn good cup of coffee.\
 🧗🏻‍♂️ I believe in agile principles.\
 🧔🏻‍ I'm open-minded and have a friendly demeanor.\
 🧘🏻‍♂️ I believe in taking a deep breath.\
-🏕 I hike and enjoy outdoor experiences.\
-🎮 I like to bring people together for a friendly game.\
+🏕️ I hike and enjoy outdoor experiences.\
+🎲 I like to bring people together for a friendly game.\
 👨🏻‍🏫 I teach with a people-first approach.\
 📝 I write poetry and fiction with Scrivener.\
 💀 I study figurative sculpting and anatomy.
