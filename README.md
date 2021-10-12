@@ -5,11 +5,11 @@ Thanks for stopping by!
 
 🧠 I have a passion for exploring new technologies with a focus on human beings.\
 🎓 I have an AP Degree in Multimedia Design and Communication.\
-🎥 I'm a certified Avid Media Composer User & Instructor.\
+🎥 I'm a certified Avid Media Composer User and Instructor.\
 ☁️ I'm an AWS Certified Cloud Practitioner.\
-👨🏻‍💻 I code in VSCode, Intellij IDEA, PyCharm & Sublime Text 3.\
-🏗️ I build things with JavaScript and Python.\
-🦄 I study creative coding and generative art with p5.js & Processing.\
+👨🏻‍💻 I code in VSCode, Visual Studio, Intellij IDEA, PyCharm & Sublime Text.\
+🏗️ I build solutions with JavaScript and Python.\
+🦄 I study creative coding and generative art with p5.js and Processing.\
 👨🏻‍🏭 I create strange things with the Raspberry Pi.\
 🐳 I'm setting sail with Docker.\
 🌍 I'm building better apps with Terraform.\
