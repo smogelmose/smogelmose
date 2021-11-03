@@ -10,7 +10,8 @@ Thanks for stopping by!
 🧰 I build solutions in Umbraco Cloud.\
 👨🏻‍💻 I code in VSCode, Visual Studio & Sublime Text.\
 🎞️ I'm a certified Avid Media Composer User and Instructor.\
-☕️ I enjoy a damn good cup of coffee.
+☕️ I enjoy a damn good cup of coffee.\
+🏕️ I hike and enjoy the Outdoors.
 <!--
 **smogelmose/smogelmose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
