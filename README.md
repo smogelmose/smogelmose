@@ -8,7 +8,7 @@ Thanks for stopping by! 🍀
 🌩️ I'm an AWS Certified Cloud Practitioner.\
 ✨ I prototype with Figma, p5* and the Raspberry Pi.\
 🧰 I build solutions in Python, JavaScript and C#.\
-👨🏻‍💻 I code in VSCode, Visual Studio & Sublime Text.\
+👨🏻‍💻 I code in VS Code, Visual Studio & Sublime Text.\
 🎞️ I'm a certified Avid Media Composer User and Instructor.\
 ☕️ I enjoy a damn good cup of coffee.\
 🏕️ I hike and enjoy the Outdoors.
