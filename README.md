@@ -9,6 +9,7 @@ Thanks for stopping by! 👨‍🚀
 🧰 I build solutions in VS Code, PyCharm & Sublime Text.\
 👨🏻‍💻 I write instructions for computers in Python and JavaScript.\
 🌐 I know HTML5, CSS3, Django and Vue.js.\
+🐼 I'm fascinated with artificial intelligence.\
 🎥 I'm a certified Avid Media Composer User and Instructor.\
 ☕️ I enjoy a damn good cup of coffee.\
 🏕️ I hike and enjoy the Outdoors.
