@@ -3,11 +3,12 @@
 Thanks for stopping by! 👨‍🚀
 
 ⚡ I have a passion for exploring new technologies with a focus on human beings.\
-🦄 I have an AP Degree in Multimedia Design and Communication.\
+🖖 I have an AP Degree in Multimedia Design and Communication.\
 🌩️ I'm an AWS Certified Cloud Practitioner.\
-✨ I prototype with Figma, p5.js and Vue.js.\
-🧰 I build solutions in Python, JavaScript and C#.\
-👨🏻‍💻 I write instructions for computers in VS Code, Visual Studio & Sublime Text.\
+✨ I prototype with Figma and p5.js.\
+🧰 I build solutions in VS Code, PyCharm & Sublime Text.\
+👨🏻‍💻 I write instructions for computers in Python and JavaScript.\
+🌐 I know HTML5, CSS3, Django and Vue.js.\
 🎥 I'm a certified Avid Media Composer User and Instructor.\
 ☕️ I enjoy a damn good cup of coffee.\
 🏕️ I hike and enjoy the Outdoors.
