@@ -7,9 +7,9 @@ Thanks for stopping by! 👨‍🚀
 🌩️ I'm an AWS Certified Cloud Practitioner.\
 ✨ I prototype and explore with p5.js.\
 🧰 I build solutions in VS Code and PyCharm.\
-👨🏻‍💻 I write instructions for computers in Python and JavaScript.\
-🌐 I know HTML5, CSS3, Bootstrap, Python and js* web Frameworks.\
-🤖 I'm fascinated with Data and Machine Learning.\
+👨🏻‍💻 I write instructions for computers in Python.\
+🌐 I know HTML5, CSS3, Bootstrap, Python and JavaScript Frameworks.\
+🐼 I'm fascinated with Data and Machine Learning.\
 🎥 I'm a certified Avid Media Composer User and Instructor.\
 ☕️ I enjoy a damn good cup of coffee.\
 🏕️ I hike and enjoy the Outdoors.
