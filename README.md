@@ -4,7 +4,7 @@ Hi there 👋
 
 Thanks for stopping by! 👨‍🚀  
 
-🦄 I have a passion for exploring new technologies with a focus on human beings    
+🦄 I have a passion for exploring new technologies with a focus on human beings.    
 🧠 I'm currently working on:  
 🦻 Creating a digital Reynell test that is designed to meet the needs of children with Cochlear Implants.  
 🤦‍♂️ Developing a VR environment that provides a safe space for individuals with Autism Spectrum Condition.    
