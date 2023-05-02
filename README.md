@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-Hi there 👋  
-
 Thanks for stopping by! 👨‍🚀  
 
 🦄 I have a passion for exploring new technologies with a focus on human beings.    
