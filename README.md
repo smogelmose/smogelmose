@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-Thanks for stopping by! 👨‍🚀  
+Thanks for stopping by!
 
-🦄 I have a passion for exploring new technologies with a focus on human beings.    
+I have a passion for exploring new technologies with a focus on human beings.    
   
-🧠 I'm currently working on:  
+I'm currently working on:
   
 🦻 Creating a digital Reynell test that meets the needs of children with Cochlear Implants.  
 🧘 Developing a Virtual environment that provides a safe space for individuals with ASD.    
