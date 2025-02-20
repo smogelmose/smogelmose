@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-Thanks for stopping by!
-
-I have a passion for exploring new technologies with a focus on human beings.    
+Thanks for stopping by! 
   
 <!--
 **smogelmose/smogelmose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
