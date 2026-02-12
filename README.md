@@ -39,8 +39,7 @@ Investigated how spatialized sound influences sensory conflict and the interplay
 # 💼 Professional Experience  
 
 **Creative Technology Lab – AAU CREATE**
-- Support students and staff with lab resources and equipment.  
-- Manage technical assets and ensure smooth operation of immersive‑tech facilities.  
+- Support students and staff with lab resources and equipment.   
 
 **Balance VR Research Project – Multisensory Experience Lab, AAU CREATE**  
 - Designed and executed VR experiments focusing on spatial audio and motion‑sickness dynamics.  
@@ -48,7 +47,6 @@ Investigated how spatialized sound influences sensory conflict and the interplay
 
 ## Tech stack
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" width="32" alt="Slack">](https://slack.com/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="32" alt="Figma">](https://www.figma.com/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="32" alt="GitHub">](https://github.com/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" width="32" alt="LaTeX">](https://www.latex-project.org/)
@@ -56,7 +54,6 @@ Investigated how spatialized sound influences sensory conflict and the interplay
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/p5js/p5js-original.svg" width="32" alt="p5.js">](https://p5js.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="32" alt="C#">](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="32" alt="Python">](https://www.python.org/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="32" alt="Anaconda">](https://www.anaconda.com/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="32" alt="Jupyter">](https://jupyter.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" width="32" alt="Google Colab">](https://colab.research.google.com/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="32" alt="NumPy">](https://numpy.org/)
@@ -68,7 +65,6 @@ Investigated how spatialized sound influences sensory conflict and the interplay
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="32" alt="PyTorch">](https://pytorch.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="32" alt="OpenCV">](https://opencv.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="32" alt="Arduino">](https://www.arduino.cc/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" width="32" alt="Raspberry Pi">](https://www.raspberrypi.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="32" alt="Blender">](https://www.blender.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="32" alt="Unity">](https://unity.com/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" width="32" alt="Unreal Engine">](https://www.unrealengine.com/)
