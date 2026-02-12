@@ -17,7 +17,7 @@ I hold a **BSc in Medialogy** from Aalborg University Copenhagen and specialize 
 
 I currently work part‑time as a **Student Assistant** at the **Creative Technology Lab (AAU CREATE)**, helping students and staff with lab resources and technical equipment.
 
-## 🔬 Research Highlight  
+# 🔬 Research Highlight  
 
 **Balance VR Project – Multisensory Experience Lab, AAU CREATE**  
 Investigated how spatialized sound influences sensory conflict and the interplay between balance and motion sickness in virtual reality. This work grew out of my bachelor group project and contributed to a larger research initiative.
