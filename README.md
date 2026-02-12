@@ -2,7 +2,7 @@
 
 Thanks for stopping by! 
   
-#About Me  
+# About Me  
 
 I am studying a **MSc in Medialogy** from Aalborg University Copenhagen and specialize in immersive technologies, human‑computer interaction, and user‑centered design. My background spans both research and creative‑industry projects, covering:
 
