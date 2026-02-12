@@ -7,10 +7,13 @@ Thanks for stopping by!
 I hold a **BSc in Medialogy** from Aalborg University Copenhagen and specialize in immersive technologies, human‑computer interaction, and user‑centered design. My background spans both research and creative‑industry projects, covering:
 
 - Game and film development  
-- Biometric sensing & AI integration  
-- Interaction design & experimental research  
-- Cybersickness mitigation in VR  
-- Creative technology & digital media production  
+- Biometric sensing  
+- ML and AI integration  
+- Interaction design  
+- Experimental research  
+- Cybersickness protocols in VR  
+- Creative technology  
+- Digital media production  
 
 I currently work part‑time as a **Student Assistant** at the **Creative Technology Lab (AAU CREATE)**, helping students and staff with lab resources and technical equipment.
 
