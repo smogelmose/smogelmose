@@ -48,8 +48,6 @@ Investigated how spatialized sound influences sensory conflict and the interplay
 
 ## Tech stack
 
-## Tech stack
-
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" width="32" alt="Slack">](https://slack.com/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="32" alt="Figma">](https://www.figma.com/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="32" alt="GitHub">](https://github.com/)
