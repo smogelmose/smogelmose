@@ -2,18 +2,19 @@
 
 Thanks for stopping by! 
   
-# 👋 About Me  
+#About Me  
 
-I hold a **BSc in Medialogy** from Aalborg University Copenhagen and specialize in immersive technologies, human‑computer interaction, and user‑centered design. My background spans both research and creative‑industry projects, covering:
+I am studying a **MSc in Medialogy** from Aalborg University Copenhagen and specialize in immersive technologies, human‑computer interaction, and user‑centered design. My background spans both research and creative‑industry projects, covering:
 
-- Game and film development  
-- Biometric sensing  
-- ML and AI integration  
-- Interaction design  
-- Experimental research  
-- Cybersickness protocols in VR  
-- Creative technology  
-- Digital media production  
+- Human Computer Interaction  
+- Interactive Digital Narratives  
+- Affective Computing  
+- Biometric, ML and AI integration  
+- Embodied Interaction   
+- Experimental Research  
+- Virtual Reality and Cybersickness   
+- Game and Film Development  
+- Creative Technology  
 
 I currently work part‑time as a **Student Assistant** at the **Creative Technology Lab (AAU CREATE)**, helping students and staff with lab resources and technical equipment.
 
@@ -26,12 +27,12 @@ Investigated how spatialized sound influences sensory conflict and the interplay
 
 | Category                | Skills                                                                 |
 |-------------------------|------------------------------------------------------------------------|
-| **Design & Methodology**| Human‑Centered Design, Mixed‑Methods User Studies, VR Experiment Design & Implementation |
+| **Design & Methodology**| Human‑Centered Design, Mixed‑Methods User Studies, VR Design & Implementation |
 | **Development**         | Unity & Unreal Engine Prototyping, Real‑Time Computer Graphics        |
 | **Data & AI**           | Machine Learning & AI Integration, Biometric Sensing & Data Analysis  |
-| **Creative Production**| Narratives in Interactive Systems, Post‑Production & VFX Pipeline Optimization, Stop‑Motion & Real‑Time Animation |
-| **Communication**       | Research Dissemination & Academic Writing, Technical Lab & Equipment Management |
-| **General UX**          | User Experience (UX), Human‑Computer Interaction (HCI), Narrative Design, AI Engineering |
+| **Creative Technology**| Narratives in Interactive Systems, Arduino, Electronics, Post‑Production & VFX Pipeline Optimization, Stop‑Motion & Real‑Time Animation |
+| **Academica**       | Research Dissemination & Academic Writing, Technical Lab & Equipment Management |
+| **UX**          | User Experience (UX), Human‑Computer Interaction (HCI), Narrative Design, AI Engineering |
 
 # 📚 Publications  
 
@@ -77,4 +78,4 @@ Investigated how spatialized sound influences sensory conflict and the interplay
 
 # 🌐 Connect  
 
-Feel free to reach out for collaborations in XR research, AI‑enhanced interactive systems, or anything related to immersive tech!
+Feel free to reach out for collaborations in research, interactive systems, or anything related to immersive tech!
