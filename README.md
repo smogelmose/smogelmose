@@ -72,10 +72,5 @@ Investigated how spatialized sound influences sensory conflict and the interplay
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="32" alt="Blender">](https://www.blender.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="32" alt="Unity">](https://unity.com/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" width="32" alt="Unreal Engine">](https://www.unrealengine.com/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="32" alt="Docker">](https://www.docker.com/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="32" alt="AWS">](https://aws.amazon.com/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jekyll/jekyll-original.svg" width="32" alt="Jekyll">](https://jekyllrb.com/)
-
-# 🌐 Connect  
-
-Feel free to reach out for collaborations in research, interactive systems, or anything related to immersive tech!
