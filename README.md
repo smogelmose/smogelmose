@@ -17,7 +17,6 @@ As a student assistant at the Creative Technology Lab (AAU CREATE), I help stude
 
 # 🔗 Links
 - 🌐 Website: [mogelmose.org](https://mogelmose.org)
-- 📧 Email: [steffen@mogelmose.org](mailto:steffen@mogelmose.org)
 - 💼 LinkedIn: [in/mogelmose](https://www.linkedin.com/in/mogelmose)
 - 🎓 Google Scholar: [eZdaHG8AAAAJ](https://scholar.google.com/citations?user=eZdaHG8AAAAJ)
 - 🆔 ORCID: [0000-0002-9038-7928](https://orcid.org/0000-0002-9038-7928)
